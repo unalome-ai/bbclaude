@@ -1,0 +1,15 @@
+# build output (ship APKs as GitHub release assets, not in git)
+android/build/
+*.apk
+*.apk.idsig
+cli/bbclaude
+*.o
+
+# signing keys and secrets: never commit these
+*.keystore
+*.jks
+key.txt
+.bbclaude_key
+*.env
+
+.DS_Store

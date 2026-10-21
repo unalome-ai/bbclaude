@@ -1,0 +1,14 @@
+bbclaude
+Copyright 2026 the bbclaude authors
+
+This product includes Conscrypt 2.5.3 (https://github.com/google/conscrypt),
+Copyright 2013-2021 The Android Open Source Project, licensed under the
+Apache License 2.0. Conscrypt includes BoringSSL; see its license at
+https://boringssl.googlesource.com/boringssl/+/HEAD/LICENSE.
+
+cli/globalsign-root-r1.pem is the public GlobalSign Root CA certificate,
+distributed by GlobalSign for inclusion in trust stores.
+
+bbclaude is an unofficial client. It is not made, endorsed or supported by
+Anthropic or BlackBerry. "Claude" is a trademark of Anthropic, PBC.
+"BlackBerry" is a trademark of BlackBerry Limited.
