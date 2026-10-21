@@ -18,6 +18,14 @@ on a BlackBerry Passport (OS 10.3.3). It comes in two flavours:
 
 ## The app
 
+<p align="center">
+  <img src="docs/screenshots/chat.png" width="24%" alt="A chat with a Markdown reply">
+  <img src="docs/screenshots/new-chat.png" width="24%" alt="New chat screen">
+  <img src="docs/screenshots/settings.png" width="24%" alt="Settings: API key and model">
+  <img src="docs/screenshots/about.png" width="24%" alt="Settings: effort, text size, about">
+</p>
+<p align="center"><sub>Screenshots from a BlackBerry Passport (1440×1440).</sub></p>
+
 A dark, BB10-styled chat app modelled on the Claude mobile app:
 
 - Streaming replies with Markdown (headings, lists, code, bold, links)
